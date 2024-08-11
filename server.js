@@ -7,9 +7,9 @@
 *  
 *	Name: Su Myat Pwint Soe Student ID: 160255238 Date: 8/11/2024 
 * 
-*	Published URL GitHub: 
+*	Published URL GitHub: https://github.com/smps0901/Assignment6-smpsoe1
 *
-*   Published URL Vercel: 
+*   Published URL Vercel: https://assignment6-smpsoe1.vercel.app/
 * 
 ********************************************************************************/
 
